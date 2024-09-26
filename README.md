@@ -1,2 +1,2 @@
 # Data-Inter-Security-BTCS-PC_010T
-Contains projects centered around protecting information and networks in the digital realm.
+Explore topics such as encryption, network security protocols, threat detection, and cybersecurity strategies to safeguard data integrity and privacy.
